@@ -3,3 +3,4 @@ test rebase2
 test rebase3
 test rebase4
 test rebase5
+test rebase6
